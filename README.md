@@ -25,9 +25,9 @@ In my personal life I love doing sports, reading, listening to music and enjoyin
 - JavaScript
 - SASS
 - React
-- Git
-### tools
+### Tools
 - VS Code
+- Git
 - GitHub
 - Postman
 - Notion
