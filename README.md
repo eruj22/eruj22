@@ -13,11 +13,9 @@ React developer dedicated to constant improvement.
 ## 🚀 About Me
 
 Ever since I stumbled upon programming I was inspired to build more, to learn more, to be better programmer. 
-For me it's simple. Do something programming related every day. Until now I have built many projects, from really simple to less simple ones. Most of them you can find on GitHub.
+Before getting my first job I had built many different projects that you can see on my GitHub profile. During my first few months of learning React I had I pleasure to learn from <a href="https://github.com/artnerdnet">artnerdnet</a>. She was my mentor and she helped me immensely with her feedback on my written code and her guidance helped me stay on the correct path. Her knowledge and experience helped me progress faster than I would otherwise.
 
-Last few months I am actively learning React through building projects. I am also very grateful to get React mentor, <a href="https://github.com/artnerdnet">artnerdnet</a>. She helped me improve my code and guided me through different issues. With her help I have became better programmer.
-
-Currently I am working as a front-end developer. The technologies that I am using the most are React, TypeScript, Emotion for styling and React query. I am a part of the agile team, responsible for small part of the Saas product.
+Currently I am working as a front-end developer. There I am surrounded with knowledgeable and experienced people that that are really supportive. I am learning so much and can gradually contribute more to the benefit of the company. Mostly I am using React, TypeScript, Emotion for styling and React query. I am a part of the agile team, responsible for small part of the Saas product.
 
 In my personal life I love doing sports, reading, listening to music and enjoying the nature.
 ## 🛠 Languages and tools
